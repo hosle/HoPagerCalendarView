@@ -50,6 +50,15 @@ activity_main.xml
 
 ```
 
+
+## Extension
+
+[HoVerticalCalendarView](https://github.com/hosle/HoVerticalCalendarView)
+
+ A vertical list calendar view
+
+
+
 ## License
 
 Copyright (C) 2018. Henry Tam (hosle)
